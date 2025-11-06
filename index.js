@@ -1,0 +1,6 @@
+# .env.example
+OPENAI_API_KEY=your_openai_key
+CLIENT_ID=your_azure_client_id
+CLIENT_SECRET=your_azure_client_secret
+TENANT_ID=your_azure_tenant_id
+Add index.js
